@@ -70,7 +70,8 @@ Script Bash satu-file untuk install, update, backup, monitoring, dan repair **Pt
 
 Jalankan script tanpa argumen untuk masuk ke menu interaktif:
 
-```bash <(curl -s https://raw.githubusercontent.com/aldixyz5/ptero-manager/refs/heads/main/ptero.sh)
+```
+bash <(curl -s https://raw.githubusercontent.com/aldixyz5/ptero-manager/refs/heads/main/ptero.sh)
 ```
 
 ### Skenario umum
